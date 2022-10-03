@@ -1,6 +1,10 @@
 # Components for a mobile App
 
+## New contributors are welcome!
+
 Components of a multiplatform mobile App & website
+
+Tools:
 
 - HTML
 - JS
@@ -8,9 +12,4 @@ Components of a multiplatform mobile App & website
 - React Native
 - TypeScript
 
-## Installation
 
-1. Install dependencies 
-2. Enjoy!
-
-## New contributors are welcome!
